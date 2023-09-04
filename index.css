@@ -1,0 +1,19 @@
+section#categoria{
+    display: flex;
+    height: 30vh;
+    width: 80vw;
+    margin-bottom: 10vh;
+}
+
+div{
+    margin: 2vh 5vw 2vh 5vw;
+}
+
+body{
+    background-color: rgba(5, 5, 5, 0.233);
+}
+button{
+    background-color: white;
+}
+
+
